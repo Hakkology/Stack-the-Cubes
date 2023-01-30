@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a81341e3387b3424db52c1866157a317
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CoinCollect: {fileID: 8300000, guid: b9110c4dcce58f64b9dea5dc264e90bf, type: 3}
+  - CurtainSound: {fileID: 8300000, guid: 30e12c78686a6a54f848010181c829e8, type: 3}
+  - EndofChapter: {instanceID: 0}
+  - EndofGame: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
